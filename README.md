@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%E2%80%A2%20Frontend%20%E2%9E%94%20Full-Stack%20%E2%9E%94%20DevOps%20Journey%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Actively%20Seeking%20Trainee%20Roles%20%E2%80%A2%20MCA%20Graduate%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Recently+relieved+%26+dedicating+100%25+time+to+learning;Completing+Frontend+%E2%9E%94+Full-Stack+Journey+%E2%9E%94+Next%3A+DevOps;Actively+seeking+Software+Trainee+%26+Associate+roles;MCA+from+Andhra+University+%E2%80%A2+Immediate+Joiner;Building+daily+with+React+19%2C+TypeScript%2C+Python+%26+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Actively+seeking+Software+Trainee+%26+Associate+roles;MCA+Graduate+(Andhra+University)+%E2%80%A2+Immediate+Joiner;Recently+relieved+%26+dedicating+100%25+time+to+learning;Frontend+(Completing)+%E2%9E%94+Full-Stack+%E2%9E%94+DevOps" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -18,10 +18,16 @@
       <img src="https://img.shields.io/badge/GitHub-Yuvraj--YJ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <img src="https://img.shields.io/badge/MCA-blue?style=flat-square" alt="MCA" />
-    <img src="https://img.shields.io/badge/Seeking-Trainee_Roles-0A66C2?style=flat-square" alt="Seeking Trainee Roles" />
-    <img src="https://img.shields.io/badge/Notice_Period-Immediate_Joiner-brightgreen?style=flat-square" alt="Immediate Joiner" />
+    <img src="https://img.shields.io/badge/Target-Software_Trainee_Roles-0A66C2?style=flat-square" alt="Target: Software Trainee Roles" />
+    <img src="https://img.shields.io/badge/Notice_Period-Immediate_Joiner_(0_Days)-brightgreen?style=flat-square" alt="Immediate Joiner" />
   </p>
 </div>
+
+> [!TIP]
+> ### 🎯 Open to Opportunities: Trainee & Associate Engineering Roles
+> **Status:** Relieved recently (~10 days ago) • **Available to Join Immediately (0 Days Notice Period)**  
+> **Target Roles:** Software Engineer Trainee, Graduate Engineer Trainee (GET), Associate Software Engineer, or Junior Developer  
+> 📬 **Quick Connect:** [kuppiliyuvraj@gmail.com](mailto:kuppiliyuvraj@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/kuppili-yuvraj-56923824b/)
 
 ---
 
