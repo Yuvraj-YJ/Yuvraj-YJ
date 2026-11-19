@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%E2%80%A2%20Actively%20Learning%20%26%20Seeking%20Trainee%20Roles%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%E2%80%A2%20Frontend%20%E2%9E%94%20Full-Stack%20%E2%9E%94%20DevOps%20Journey%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Recently+relieved+%26+dedicating+100%25+time+to+learning;Actively+seeking+Software+Trainee+%26+Associate+roles;MCA+from+Andhra+University+%E2%80%A2+Immediate+Joiner;Building+%26+learning+daily%3A+React+19%2C+Python%2C+PyTorch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Recently+relieved+%26+dedicating+100%25+time+to+learning;Completing+Frontend+%E2%9E%94+Full-Stack+Journey+%E2%9E%94+Next%3A+DevOps;Actively+seeking+Software+Trainee+%26+Associate+roles;MCA+from+Andhra+University+%E2%80%A2+Immediate+Joiner;Building+daily+with+React+19%2C+TypeScript%2C+Python+%26+Docker" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,9 +27,9 @@
 
 ### 👋 About Me
 
-I am an **MCA graduate from Andhra University** passionate about full-stack engineering and applied AI/NLP pipelines. Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to **continuous learning, hands-on coding, and building practical projects** as I actively seek **Trainee / Associate Software Engineer roles**.
+I am an **MCA graduate from Andhra University** on a structured engineering path: having established a solid foundation by **completing modern Frontend development**, I am actively walking the journey towards **Full-Stack architecture**, with my sights set on mastering **DevOps & Cloud practices**.
 
-I am eager to join a collaborative engineering team where I can contribute to real-world codebases, learn under experienced mentorship, and grow rapidly into a high-impact engineer.
+Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to daily building, practical problem-solving, and continuous upskilling. I am actively looking for **Software Engineer Trainee / Graduate Engineer Trainee (GET) / Associate Developer** roles where I can contribute to production applications and grow under seasoned mentorship.
 
 * 🎓 **Education:** Master of Computer Applications (MCA) — Andhra University, India
 * 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy on WELFake Dataset)
@@ -39,16 +39,27 @@ I am eager to join a collaborative engineering team where I can contribute to re
 
 ---
 
-### 🚀 What I'm Actively Learning & Sharpening Right Now
+### 🧭 My Engineering Journey & Roadmap
 
-During this active learning phase, I am strengthening both core computer science fundamentals and modern engineering toolsets:
+```
+[ 1. FRONTEND CORE ]               [ 2. FULL-STACK GROWTH ]          [ 3. DEVOPS & CLOUD ]
+├── React 19 & TypeScript          ├── Node.js & Express             ├── Docker & Containers
+├── Next.js App Router             ├── Python & FastAPI              ├── CI/CD GitHub Actions
+├── Modern Tailwind CSS v4         ├── PostgreSQL & SQLite           ├── Linux Server Fundamentals
+└── State & Performance            └── REST APIs & WebSockets        └── Cloud Deployment & Monitoring
+     STATUS: Completing                 STATUS: In Active Progress        STATUS: Next Milestone
+```
+
+---
+
+### 🚀 What I'm Actively Learning & Sharpening Right Now
 
 | Domain | Key Areas & Daily Improvements |
 | :--- | :--- |
-| **Applied AI & NLP** | Diving deeper into Transformer architectures, parameter-efficient fine-tuning (LoRA/QLoRA), attention mechanisms, and real-time model serving. |
-| **Modern Frontend & React** | Mastering React 19, TypeScript strict typing patterns, Next.js App Router, Tailwind CSS v4, and reactive UI motion. |
-| **Backend & System Design** | Building resilient REST APIs & microservices, WebSocket event streaming, relational schema optimization, and clean architectural patterns. |
-| **Core CS & Problem Solving** | Daily revision of Data Structures & Algorithms, database indexing strategies, and design patterns. |
+| **Frontend (Completing)** | Mastering React 19 features, strict TypeScript typing patterns, Next.js App Router, responsive styling with Tailwind v4, and clean component composition. |
+| **Full-Stack (Walking Through)** | Designing modular backend architectures with Node.js/Express & FastAPI, relational database schemas with PostgreSQL/SQLite, and RESTful API endpoints. |
+| **DevOps (Next Step)** | Containerizing full-stack apps with Docker, setting up automated CI/CD pipelines using GitHub Actions, and managing Linux environments. |
+| **Applied AI & ML (Project Foundation)** | Transformer fine-tuning workflows (RoBERTa/BERT), tokenization, speech-to-text audio ingestion, and low-latency inference microservices. |
 
 ---
 
@@ -81,16 +92,15 @@ During this active learning phase, I am strengthening both core computer science
 ### 🛠️ Tech Stack & Toolchain
 
 ```
-├── Languages                    :: Python, TypeScript, JavaScript, C++, SQL
-├── Machine Learning & NLP       :: PyTorch, Hugging Face (Transformers), Scikit-Learn, NumPy, Pandas
-├── Frontend                     :: React 19, Next.js, Tailwind CSS, HTML5, CSS3, Vite
-├── Backend & Databases          :: Node.js, Express, FastAPI, PostgreSQL, SQLite, REST APIs
-└── Tools & Workflow             :: Git, GitHub, Linux / Bash, Docker, Postman, VS Code
+├── Frontend                     :: React 19, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Vite
+├── Backend & Databases          :: Node.js, Express, FastAPI, Python, PostgreSQL, SQLite, REST APIs
+├── DevOps & Environment         :: Docker, Git, GitHub, Linux / Bash, Postman, VS Code
+└── Machine Learning & NLP       :: PyTorch, Hugging Face (Transformers), Scikit-Learn, NumPy, Pandas
 ```
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,sqlite,cpp,ts,js,react,nextjs,nodejs,linux,docker,git,github,postman,vscode" alt="Skills Matrix" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,python,postgres,sqlite,docker,linux,git,github,postman,vscode" alt="Skills Matrix" />
   </p>
 </div>
 
