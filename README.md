@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%E2%80%A2%20Recently%20Relieved%20%26%20Actively%20Upskilling%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%E2%80%A2%20Actively%20Learning%20%26%20Seeking%20Trainee%20Roles%20%E2%80%A2%20Immediate%20Joiner&descAlignY=64&descAlign=50&descSize=16&descColor=10B981" width="100%" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Recently+relieved+%26+dedicating+100%25+time+to+upskilling;MCA+from+Andhra+University+%E2%80%A2+Full-Stack+%26+Applied+AI;Daily+learning%3A+React+19%2C+TypeScript%2C+Python+%26+PyTorch;Available+for+immediate+joining+%E2%80%A2+Open+to+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=750&lines=Recently+relieved+%26+dedicating+100%25+time+to+learning;Actively+seeking+Software+Trainee+%26+Associate+roles;MCA+from+Andhra+University+%E2%80%A2+Immediate+Joiner;Building+%26+learning+daily%3A+React+19%2C+Python%2C+PyTorch" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -18,8 +18,8 @@
       <img src="https://img.shields.io/badge/GitHub-Yuvraj--YJ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <img src="https://img.shields.io/badge/MCA-blue?style=flat-square" alt="MCA" />
+    <img src="https://img.shields.io/badge/Seeking-Trainee_Roles-0A66C2?style=flat-square" alt="Seeking Trainee Roles" />
     <img src="https://img.shields.io/badge/Notice_Period-Immediate_Joiner-brightgreen?style=flat-square" alt="Immediate Joiner" />
-    <img src="https://img.shields.io/badge/Status-Actively_Upskilling-10B981?style=flat-square" alt="Actively Upskilling" />
   </p>
 </div>
 
@@ -27,14 +27,14 @@
 
 ### 👋 About Me
 
-I am an **MCA graduate from Andhra University** with a passion for building full-stack applications and applied AI/NLP pipelines. Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to **intensive upskilling, continuous coding, and deep-diving into modern engineering practices**.
+I am an **MCA graduate from Andhra University** passionate about full-stack engineering and applied AI/NLP pipelines. Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to **continuous learning, hands-on coding, and building practical projects** as I actively seek **Trainee / Associate Software Engineer roles**.
 
-I use this transitional period to level up my problem-solving ability, expand my full-stack capabilities, and fine-tune machine learning architectures for real-world impact.
+I am eager to join a collaborative engineering team where I can contribute to real-world codebases, learn under experienced mentorship, and grow rapidly into a high-impact engineer.
 
 * 🎓 **Education:** Master of Computer Applications (MCA) — Andhra University, India
 * 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy on WELFake Dataset)
 * ⏱️ **Availability:** Recently relieved • **Immediate Joiner (0 days notice period)**
-* 💼 **Open To:** Full-time roles as **Software Development Engineer (SDE)**, **Full-Stack Developer**, or **Applied AI / ML Engineer**
+* 💼 **Looking For:** **Software Engineer Trainee**, **Graduate Engineer Trainee (GET)**, **Associate Software Engineer**, or **Junior Full-Stack / AI Trainee** roles
 * 📍 **Location:** India (Open to Remote, Hybrid, or Relocation)
 
 ---
@@ -107,7 +107,7 @@ During this active learning phase, I am strengthening both core computer science
 
 ### 📬 Let's Connect
 
-I am actively interviewing and open to full-time software engineering and AI opportunities. As an immediate joiner, I can start right away without a notice period.
+I am actively learning, interviewing, and looking for **Software Trainee / Graduate Engineer Trainee (GET) / Associate Developer** opportunities. As an immediate joiner, I am available to start right away with zero notice period.
 
 * 📧 **Email:** [kuppiliyuvraj@gmail.com](mailto:kuppiliyuvraj@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/kuppili-yuvraj-56923824b](https://www.linkedin.com/in/kuppili-yuvraj-56923824b/)
