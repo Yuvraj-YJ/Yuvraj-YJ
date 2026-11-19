@@ -1,88 +1,104 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,16,26,16,185,129&height=220&section=header&text=Hi%20there,%20I'm%20Yuvraj%20Kuppili%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%26%20ML%20Engineer&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090A0F&stroke=10B981&height=180&section=header&text=Yuvraj%20Kuppili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20Student%20%E2%80%A2%20Applied%20AI%20%2F%20NLP%20%26%20Software%20Systems&descAlignY=64&descAlign=50&descSize=17&descColor=10B981" width="100%" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Applications;Applied+AI+%26+Transformer+Models;High-Performance+UI%2FUX+Systems;Scalable+Cloud+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Master+of+Computer+Applications+(MCA)+%E2%80%94+Andhra+University;Research+Focus%3A+Transformer+Architectures+%26+Applied+NLP;Deep+Learning+Models+%E2%80%A2+PyTorch+%E2%80%A2+Hugging+Face;Full-Stack+Architectures+%E2%80%A2+Scalable+Inference+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kuppili-yuvraj-56923824b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:kuppiliyuvraj@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Academic_Email-kuppiliyuvraj%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Yuvraj-YJ">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Yuvraj--YJ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://img.shields.io/badge/Degree-MCA_(Andhra_University)-blue?style=flat-square" alt="Education" />
+    <img src="https://img.shields.io/badge/Focus-Applied_NLP_%26_Systems-emerald?style=flat-square&color=10B981" alt="Focus" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🎓 Academic Profile & Biography
 
-- 🎓 **Education:** Master of Computer Applications (**MCA**) — Andhra University
-- 💡 **Focus:** Building modern full-stack web applications and production-grade Applied AI / NLP pipelines
-- 🚀 **Flagship Project:** [Fake News Detection System](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) — RoBERTa transformer fine-tuned on WELFake dataset with **98.4% accuracy**
-- ⚡ **Reach & Creative Background:** 30,000+ community reach across digital media & content creation
-- 💬 **Ask me about:** React 19, TypeScript, PyTorch, Hugging Face Transformers, RESTful APIs, and Scalable Architectures
-- 📫 **How to reach me:** [kuppiliyuvraj@gmail.com](mailto:kuppiliyuvraj@gmail.com)
+I am a **Graduate Student** holding a **Master of Computer Applications (MCA)** from **Andhra University, India**. My work centers on the intersection of **theoretical computer science**, **applied Natural Language Processing (NLP)**, and **scalable system engineering**.
 
----
+I focus on fine-tuning state-of-the-art transformer architectures for domain-specific language tasks, misinformation detection, and deploying resilient, low-latency microservices for model inference.
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-#### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind,html,css" alt="Frontend & Languages" />
-</p>
-
-#### **Backend, Databases & AI/ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,pytorch,postgres,sqlite" alt="Backend & AI" />
-</p>
-
-#### **DevOps, Tools & Workflow**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,postman,vscode" alt="Tools" />
-</p>
-
-</div>
+* 🏛️ **Institution:** Department of Computer Science & Systems Engineering, Andhra University
+* 📖 **Academic Core:** Data Structures & Algorithms, Design & Analysis of Algorithms, Machine Learning, Database Management Systems, Distributed Systems, Operating Systems, and Theory of Computation
+* 🔭 **Current Inquiry:** Efficient inference optimization, multi-modal signal processing, and transformer robustness under adversarial inputs
+* 🌱 **Learning & Exploring:** LLM fine-tuning techniques (LoRA/QLoRA), Retrieval-Augmented Generation (RAG) architectures, and vector indexing
+* 🤝 **Collaboration:** Open to academic research collaborations, open-source initiatives, and engineering opportunities
 
 ---
 
-### 🌟 Featured Repository
+### 🔬 Research & Key Project Showcase
 
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert">📰 Fake News Detection System using RoBERTa</a></h3>
-      <p>High-precision text and speech-to-text fake news classification system powered by fine-tuned RoBERTa transformer models.</p>
+      <h3><a href="https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert">📰 Fake News Detection System via RoBERTa Fine-Tuning</a></h3>
+      <p><i>Graduate Research & Applied Machine Learning Capstone</i></p>
+      <p>
+        An end-to-end multi-modal verification pipeline applying a fine-tuned <b>RoBERTa (Robustly Optimized BERT Approach)</b> transformer architecture to detect deceptive digital news content at scale.
+      </p>
       <ul>
-        <li><b>Accuracy:</b> 98.4% on the WELFake dataset (72,134 news articles)</li>
-        <li><b>Tech Stack:</b> Python 3.11, PyTorch, Hugging Face Transformers, FastAPI / Flask</li>
-        <li><b>Key Capabilities:</b> Real-time inference latency (34ms–42ms), 16kHz audio speech-to-text ingestion, and confidence scoring</li>
+        <li><b>Dataset Benchmark:</b> Evaluated on the <i>WELFake</i> benchmark dataset comprising <b>72,134 annotated news articles</b>.</li>
+        <li><b>Empirical Accuracy:</b> Achieved <b>98.4% classification accuracy</b> with balanced precision, recall, and F1-scores.</li>
+        <li><b>Multi-Modal Ingestion:</b> Implemented a 16kHz speech-to-text audio preprocessing pipeline enabling automated transcription and classification of recorded audio broadcasts.</li>
+        <li><b>Inference Latency:</b> Engineered low-latency model serving microservice delivering <b>34ms–42ms</b> response times per inference cycle.</li>
+        <li><b>Stack:</b> <code>Python 3.11</code>, <code>PyTorch</code>, <code>Hugging Face Transformers</code>, <code>Scikit-learn</code>, <code>FastAPI</code></li>
       </ul>
+      <p>
+        🔗 <b>Repository:</b> <a href="https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert">github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert</a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🛠️ Technical Competencies & Toolchain
+
+```
+├── Machine Learning & NLP       :: PyTorch, Hugging Face (Transformers), Scikit-Learn, NumPy, Pandas, Matplotlib
+├── Programming Languages        :: Python, C++, TypeScript, JavaScript, SQL
+├── Systems & Full-Stack         :: React 19, Next.js, Node.js, FastAPI, Express, REST APIs, WebSockets
+├── Databases & Storage          :: PostgreSQL, SQLite, Relational Schema Design
+└── Environment & Tooling        :: Git, GitHub, Linux / Bash, Docker, Postman, Vite, Jupyter Notebooks
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-YJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=10B981&icon_color=10B981&text_color=9CA3AF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-YJ&theme=tokyonight&hide_border=true&background=090A0F&ring=10B981&fire=10B981&currStreakLabel=10B981" height="165" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,sqlite,cpp,ts,js,react,nextjs,nodejs,linux,docker,git,github,postman,vscode" alt="Skills Matrix" />
+  </p>
 </div>
 
 ---
 
+### 📈 Academic & GitHub Metrics
+
 <div align="center">
-  <sub>Designed with ❤️ by <b>Yuvraj Kuppili</b></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-YJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090A0F&title_color=10B981&icon_color=10B981&text_color=9CA3AF" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-YJ&theme=tokyonight&hide_border=true&background=090A0F&ring=10B981&fire=10B981&currStreakLabel=10B981" height="160" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Academic & Professional Inquiries
+
+Feel free to reach out regarding academic inquiries, research discussions, or engineering opportunities:
+
+* 📧 **Email:** [kuppiliyuvraj@gmail.com](mailto:kuppiliyuvraj@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kuppili-yuvraj-56923824b](https://www.linkedin.com/in/kuppili-yuvraj-56923824b/)
+* 🐙 **GitHub:** [@Yuvraj-YJ](https://github.com/Yuvraj-YJ)
+
+<div align="center">
+  <sub>Yuvraj Kuppili • Master of Computer Applications (MCA) • Andhra University</sub>
 </div>
