@@ -27,14 +27,13 @@
 
 ### 👋 About Me
 
-I am an **MCA graduate from Andhra University** with a passion for building full-stack applications and applied AI/NLP pipelines. Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time and focus to **intensive upskilling, continuous coding, and deep-diving into modern engineering practices**.
+I am an **MCA graduate from Andhra University** with a passion for building full-stack applications and applied AI/NLP pipelines. Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to **intensive upskilling, continuous coding, and deep-diving into modern engineering practices**.
 
 I use this transitional period to level up my problem-solving ability, expand my full-stack capabilities, and fine-tune machine learning architectures for real-world impact.
 
 * 🎓 **Education:** Master of Computer Applications (MCA) — Andhra University, India
 * 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy on WELFake Dataset)
 * ⏱️ **Availability:** Recently relieved • **Immediate Joiner (0 days notice period)**
-* 🎯 **Daily Focus:** 8+ hours of daily hands-on coding, architectural study, and project building
 * 💼 **Open To:** Full-time roles as **Software Development Engineer (SDE)**, **Full-Stack Developer**, or **Applied AI / ML Engineer**
 * 📍 **Location:** India (Open to Remote, Hybrid, or Relocation)
 
@@ -44,7 +43,7 @@ I use this transitional period to level up my problem-solving ability, expand my
 
 During this active learning phase, I am strengthening both core computer science fundamentals and modern engineering toolsets:
 
-| Domain | Focus & Daily Improvements |
+| Domain | Key Areas & Daily Improvements |
 | :--- | :--- |
 | **Applied AI & NLP** | Diving deeper into Transformer architectures, parameter-efficient fine-tuning (LoRA/QLoRA), attention mechanisms, and real-time model serving. |
 | **Modern Frontend & React** | Mastering React 19, TypeScript strict typing patterns, Next.js App Router, Tailwind CSS v4, and reactive UI motion. |
