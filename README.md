@@ -32,6 +32,7 @@ I am an **MCA graduate from Andhra University** with a passion for building full
 I use this transitional period to level up my problem-solving ability, expand my full-stack capabilities, and fine-tune machine learning architectures for real-world impact.
 
 * 🎓 **Education:** Master of Computer Applications (MCA) — Andhra University, India
+* 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy on WELFake Dataset)
 * ⏱️ **Availability:** Recently relieved • **Immediate Joiner (0 days notice period)**
 * 🎯 **Daily Focus:** 8+ hours of daily hands-on coding, architectural study, and project building
 * 💼 **Open To:** Full-time roles as **Software Development Engineer (SDE)**, **Full-Stack Developer**, or **Applied AI / ML Engineer**
@@ -52,15 +53,15 @@ During this active learning phase, I am strengthening both core computer science
 
 ---
 
-### 🔬 Key Project Showcase
+### 🎓 MCA Final Year Major Project
 
 <table>
   <tr>
     <td width="100%">
       <h3><a href="https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert">📰 Fake News Detection System via RoBERTa Fine-Tuning</a></h3>
-      <p><i>Applied Machine Learning Project</i></p>
+      <p><i>MCA Final Year Project • Department of Computer Science & Systems Engineering, Andhra University</i></p>
       <p>
-        An end-to-end multi-modal verification pipeline applying a fine-tuned <b>RoBERTa (Robustly Optimized BERT Approach)</b> transformer architecture to detect deceptive digital news content at scale.
+        An end-to-end multi-modal verification pipeline engineered as my <b>MCA Final Year Major Project</b>, applying a fine-tuned <b>RoBERTa (Robustly Optimized BERT Approach)</b> transformer architecture to detect deceptive digital news content at scale.
       </p>
       <ul>
         <li><b>Dataset Benchmark:</b> Evaluated on the <i>WELFake</i> dataset comprising <b>72,134 annotated news articles</b>.</li>
