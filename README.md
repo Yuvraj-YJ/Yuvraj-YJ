@@ -12,12 +12,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:kuppiliyuvraj@gmail.com">
-      <img src="https://img.shields.io/badge/Academic_Email-kuppiliyuvraj%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-kuppiliyuvraj%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Yuvraj-YJ">
       <img src="https://img.shields.io/badge/GitHub-Yuvraj--YJ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Degree-MCA_(Andhra_University)-blue?style=flat-square" alt="Education" />
+    <img src="https://img.shields.io/badge/MCA-blue?style=flat-square" alt="MCA" />
     <img src="https://img.shields.io/badge/Focus-Applied_NLP_%26_Systems-emerald?style=flat-square&color=10B981" alt="Focus" />
   </p>
 </div>
@@ -100,5 +100,5 @@ Feel free to reach out regarding academic inquiries, research discussions, or en
 * 🐙 **GitHub:** [@Yuvraj-YJ](https://github.com/Yuvraj-YJ)
 
 <div align="center">
-  <sub>Yuvraj Kuppili • Master of Computer Applications (MCA) • Andhra University</sub>
+  <sub>Yuvraj Kuppili • MCA • Andhra University</sub>
 </div>
