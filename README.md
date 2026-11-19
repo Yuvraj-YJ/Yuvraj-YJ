@@ -32,7 +32,7 @@ I am an **MCA graduate from Andhra University** on a structured engineering path
 Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my time to daily building, practical problem-solving, and continuous upskilling. I am actively looking for **Software Engineer Trainee / Graduate Engineer Trainee (GET) / Associate Developer** roles where I can contribute to production applications and grow under seasoned mentorship.
 
 * 🎓 **Education:** Master of Computer Applications (MCA) — Andhra University, India
-* 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy on WELFake Dataset)
+* 🏆 **Final Year Project:** [Fake News Detection System using RoBERTa](https://github.com/Yuvraj-YJ/Fake-news-detection-system-using-Robert) (98.4% Accuracy — built through self-driven AI learning & hands-on tutorials)
 * ⏱️ **Availability:** Recently relieved • **Immediate Joiner (0 days notice period)**
 * 💼 **Looking For:** **Software Engineer Trainee**, **Graduate Engineer Trainee (GET)**, **Associate Software Engineer**, or **Junior Full-Stack / AI Trainee** roles
 * 📍 **Location:** India (Open to Remote, Hybrid, or Relocation)
@@ -73,7 +73,11 @@ Having been **recently relieved (~10 days ago)**, I am dedicating 100% of my tim
       <p>
         An end-to-end multi-modal verification pipeline engineered as my <b>MCA Final Year Major Project</b>, applying a fine-tuned <b>RoBERTa (Robustly Optimized BERT Approach)</b> transformer architecture to detect deceptive digital news content at scale.
       </p>
+      <p>
+        💡 <i>Built through self-driven learning—combining applied AI/ML knowledge with in-depth YouTube tutorials, documentation, and hands-on experimentation to translate model theory into a working end-to-end system.</i>
+      </p>
       <ul>
+        <li><b>Self-Directed Development:</b> Independently researched and assembled from YouTube deep-dives, Hugging Face documentation, and open-source transformer guides into a production pipeline.</li>
         <li><b>Dataset Benchmark:</b> Evaluated on the <i>WELFake</i> dataset comprising <b>72,134 annotated news articles</b>.</li>
         <li><b>Accuracy:</b> Achieved <b>98.4% classification accuracy</b> with balanced precision, recall, and F1-scores.</li>
         <li><b>Multi-Modal Ingestion:</b> Implemented a 16kHz speech-to-text audio preprocessing pipeline enabling automated transcription and classification of recorded audio.</li>
